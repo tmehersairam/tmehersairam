@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tmehersairam
 - 👀 I’m interested in development
-- 🌱 I’m currently learning java
+- 🌱 I’m currently learning variety of tech stacks
 - 💞️ I’m looking to collaborate on java
 
 
